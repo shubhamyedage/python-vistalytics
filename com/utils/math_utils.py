@@ -8,8 +8,14 @@ def average_change(a):
 
 
 def get_change(a, b):
-    return round(b - a, 2)
+    return round(get_value(b) - get_value(a), 2)
 
 
 def percentage_change(a, b):
-    return round((b - a) * 100 / a, 2)
+    if math.isnan(a):
+        return 0
+    return round((get_value(b) - a) * 100 / a, 2)
+
+
+def get_value(a):
+    return float(0) if math.isnan(a) else float(a)

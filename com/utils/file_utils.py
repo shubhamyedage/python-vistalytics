@@ -6,7 +6,5 @@ def read_file(a):
 
 
 def write_file(path, data):
-    # output_file = open(path, "w+")
-    # output_file.close()
     data.to_csv(path, index=False)
     return

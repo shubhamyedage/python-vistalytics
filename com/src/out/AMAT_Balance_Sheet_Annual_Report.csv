@@ -1,49 +1,18 @@
 Keys,Average Change Over Last 3 Years,Average Change Over Last 3 Years (%),Average Change Over Last 5 Years,Average Change Over Last 5 Years (%)
-Assets,0.0,,0.0,
-Current assets,0.0,,0.0,
-Cash,0.0,,0.0,
-Cash and cash equivalents,202.0,13.46,503.5,144.68
-Short-term investments,91.5,114.38,-50.5,-37.06
-Total cash,293.5,18.56,453.0,93.55
-Receivables,304.5,36.47,264.75,86.8
-Inventories,241.5,30.82,194.5,61.16
-Deferred income taxes,-116.0,,-92.25,
-Prepaid expenses,12.0,9.56,68.75,
-Other current assets,-42.5,,-76.0,
-Total current assets,693.0,19.89,812.75,63.72
-Non-current assets,0.0,,0.0,
-"Property, plant and equipment",0.0,,0.0,
-"Gross property, plant and equipment",97.5,6.85,31.5,4.32
-Accumulated Depreciation,-59.5,5.99,-24.75,4.93
-"Net property, plant and equipment",38.0,8.83,6.75,2.97
+Short-term investments,91.5,0.0,-50.5,-37.06
+Deferred income taxes,-116.0,-100.0,-92.25,-100.0
+Other current assets,-42.5,-100.0,-76.0,-100.0
+"Gross property, plant and equipment",97.5,0.0,31.5,4.32
+Accumulated Depreciation,-59.5,0.0,-24.75,4.93
+"Net property, plant and equipment",38.0,0.0,6.75,2.97
 Equity and other investments,-3.0,-0.64,-31.5,-11.94
 Goodwill,6.0,0.36,-50.5,-5.74
 Intangible assets,-188.0,-39.54,-195.0,-57.56
-Deferred income taxes,161.0,206.41,79.0,195.06
 Total non-current assets,14.0,0.45,-191.25,-10.93
-Total assets,707.0,10.73,621.5,20.54
-Liabilities and stockholders' equity,0.0,,0.0,
-Liabilities,0.0,,0.0,
-Current liabilities,0.0,,0.0,
-Short-term debt,100.0,,50.0,
-Accounts payable,100.0,32.63,104.25,105.3
-Taxes payable,-21.0,-21.76,19.25,104.05
-Accrued liabilities,14.5,3.04,13.0,5.58
-Deferred revenues,218.0,46.38,155.25,82.25
+Taxes payable,-21.0,-21.76,19.25,0.0
+Accrued liabilities,14.5,3.04,13.0,0.0
 Other current liabilities,-7.0,-11.48,0.0,0.0
-Total current liabilities,404.5,28.66,341.75,60.35
-Non-current liabilities,0.0,,0.0,
-Long-term debt,598.0,61.43,299.25,61.51
 Deferred taxes liabilities,-15.5,-96.88,-85.0,-99.71
-Pensions and other benefits,-13.0,-12.5,45.5,
-Other long-term liabilities,58.5,39.53,24.5,31.11
-Total non-current liabilities,628.0,50.58,284.25,43.7
-Total liabilities,1032.5,38.92,626.0,51.45
-Stockholders' equity,0.0,,0.0,
+Pensions and other benefits,-13.0,-12.5,45.5,0.0
 Common stock,-0.5,-8.33,-0.25,-8.33
-Additional paid-in capital,212.5,6.66,236.5,16.14
-Retained earnings,1090.0,16.68,638.0,20.09
-Treasury stock,-1608.0,27.91,-865.25,30.69
-Accumulated other comprehensive income,-19.5,51.32,-13.5,88.52
 Total stockholders' equity,-325.5,-8.27,-4.5,-0.25
-Total liabilities and stockholders' equity,707.0,10.73,621.5,20.54
