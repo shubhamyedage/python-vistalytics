@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b0ae7a2-5b3a-41d0-aef2-8299348561c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/AMAT Income Statements.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/combined/AMAT Combined.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/combined/LRCX_Combined.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Output_doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/correlation _analysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/current_quarter_analysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/report_change_comparision.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/report_outlier_detection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/app/trend_analysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/common/constant.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/annual/AMAT Income Statement.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/annual/LRCX Income Statement.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/csv/cash_flow_statements/AMAT Cash Flow.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/in/test_src/AMAT Income Statement.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/out/AMAT_Income_Statement_i_Annual_Report.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/out/LRCX_Income_Statement_Annual_Report.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/source/out/LRCX_Income_Statement_i_Annual_Report.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/utils/file_utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/utils/math_utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/utils/tree_utils.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/in/AMAT Cash Flow.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Balance_Sheet_Annual_Report.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Balance_Sheet_Quarterly_Report.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Cash_Flow_Annual_Report.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Cash_Flow_Quarterly_Report.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Income_Statement_Quarterly_Report.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/utils/file_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/com/utils/math_utils.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/__init__.py" afterPath="$PROJECT_DIR$/main/utils/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/app/quarterly_avg_change.py" afterPath="$PROJECT_DIR$/main/app/report_quarterly_avg_change.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/app/yearly_avg_change.py" afterPath="$PROJECT_DIR$/main/app/report_yearly_avg_change.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/in/AMAT Balance Sheet.csv" afterPath="$PROJECT_DIR$/main/source/in/csv/balance_statements/AMAT Balance Sheet.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/in/AMAT Income Statement.csv" afterPath="$PROJECT_DIR$/main/source/in/csv/income_statements/AMAT Income Statement.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/in/quarter/AMAT Balance Sheet.csv" afterPath="$PROJECT_DIR$/main/source/in/quarter/AMAT Balance Sheet.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/in/quarter/AMAT Cash Flow.csv" afterPath="$PROJECT_DIR$/main/source/in/quarter/AMAT Cash Flow.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/in/quarter/AMAT Income Statement.csv" afterPath="$PROJECT_DIR$/main/source/in/quarter/AMAT Income Statement.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/src/out/AMAT_Income_Statement_Annual_Report.csv" afterPath="$PROJECT_DIR$/main/source/out/AMAT_Income_Statement_Annual_Report.csv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/com/utils/__init__.py" afterPath="$PROJECT_DIR$/main/common/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/app/test1.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/__init__.py" afterPath="$PROJECT_DIR$/main/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trend_analysis.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trend_analysis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/app/trend_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-920">
@@ -89,6 +49,16 @@
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,16 +110,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="514">
               <caret line="49" column="65" lean-forward="false" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/app/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2940">
-              <caret line="151" column="0" lean-forward="true" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -253,7 +213,6 @@
         <option value="$PROJECT_DIR$/main/common/constant.py" />
         <option value="$PROJECT_DIR$/main/utils/math_utils.py" />
         <option value="$PROJECT_DIR$/main/app/report_deep_comparision.py" />
-        <option value="$PROJECT_DIR$/main/__init__.py" />
         <option value="$PROJECT_DIR$/main/src/in/test_src/temp.csv" />
         <option value="$PROJECT_DIR$/main/src/in/test_src/AMAT Income Statement.csv" />
         <option value="$PROJECT_DIR$/main/app/correlation _analysis.py" />
@@ -265,6 +224,7 @@
         <option value="$PROJECT_DIR$/main/app/report_change_comparision.py" />
         <option value="$PROJECT_DIR$/main/utils/tree_utils.py" />
         <option value="$PROJECT_DIR$/main/app/trend_analysis.py" />
+        <option value="$PROJECT_DIR$/main/__init__.py" />
       </list>
     </option>
   </component>
@@ -383,6 +343,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="annual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-vistalytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-vistalytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -635,8 +613,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36015937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36015937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4613003" sideWeight="0.5123506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -836,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="137" column="121" lean-forward="false" selection-start-line="137" selection-start-column="121" selection-end-line="137" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/treelib/tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
@@ -981,6 +953,14 @@
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
