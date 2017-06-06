@@ -7,22 +7,29 @@ External Libraries: Pandas (Use Anaconda Package Manager)
 
 
 # Reports of Quarterly Average Changed
-  Code Files: main/app/report_quarterly_avg_change.py
-  Sources: main/src/in/quarter/<file_name>.csv
+  Code Files: app/quarterly_avg_change_analysis.py
+  Sources: source/in/quarter/<file_name>.csv
 
 # Reports of Yearly Average Changed
-  Code Files: main/app/report_yearly_avg_change.py
-  Sources: main/src/in/annual/<file_name>.csv
+  Code Files: app/yearly_avg_change_analysis.py
+  Sources: source/in/annual/<file_name>.csv
 
 # Reports of Outlier Detection
-  Code Files: main/app/report_outlier_detection_with_mean_and_dev.py
-  Sources: main/src/in/combined/<file_name>.xlsx
+  Code Files: app/report_outlier_detection.py
+  Sources: source/in/combined/<file_name>.xlsx
 
 # Outputs
-  All above code files stores ouput files in dir: main/src/out
+  All above code files stores ouput files in dir: main/source/out
 
 # Reports of Comparision
-  Code Files: main/app/report_change_comparision.py
-  Sources: main/src/in/annual/<file_name>.csv
-  Outputs: Attached with README.md
+  Code Files: app/report_change_comparision.py
+  Sources: source/in/csv/<statement_type>/<file_name>.csv
+  Outputs: docs/Output.txt
 
+# Current Quarter Analysis
+  Code Files: app/current_quarter_analysis.py
+  Sources: source/in/csv/<statement_type>/<file_name>.csv
+
+# Trend Analysis
+  Code Files: app/trend_analysis.py
+  Sources: source/in/csv/<statement_type>/<file_name>.csv
